@@ -1,9 +1,8 @@
 # nsys-easy-ps
-Powershell clone of nsys-easy by Mark Harris. Easier, quicker command-line CUDA profiling.
 
-> A simple wrapper script for NVIDIA Nsight Systems (`nsys`) to simplify profiling.
+A simple wrapper script for NVIDIA Nsight Systems (`nsys`) to simplify profiling.
 
-This is aPowerShell translation of the original Bash script by Mark Harris, found at [harrism/nsys_easy](https://github.com/harrism/nsys_easy).
+> This is a PowerShell translation of the original Bash script by Mark Harris, found at [harrism/nsys_easy](https://github.com/harrism/nsys_easy).
 
 This script is a wrapper around the `nsys` command to simplify the profiling process. It allows you to specify the trace, sample, and context switch options, as well as the output and report names.
 
